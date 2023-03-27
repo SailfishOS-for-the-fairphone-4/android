@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- 
-  <project path="device/fairphone/FP4" name="SailfishOS-for-the-fairphone-4/android_device_fairphone_FP4" />
-  <project path="kernel/fairphone/sm7225" name="SailfishOS-for-the-fairphone-4/android_kernel_fairphone_sm7225"/>
-  <project path="vendor/fairphone/FP4" name="SailfishOS-for-the-fairphone-4/proprietary-vendor_fairphone_FP4" />
-  
-</manifest>
