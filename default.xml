@@ -25,7 +25,7 @@
   <project path="external/droidmedia" name="sailfishos/droidmedia" revision="master" />
   <project path="external/busybox" name="mer-hybris/android_external_busybox_prebuilt" revision="master" />
   <project path="external/selinux_stubs" name="mer-hybris/android_external_selinux_stubs" revision="master" />
-  <project path="external/libhybris" name="mer-hybris/libhybris" revision="android11" />
+
 
   <!-- AOSP Projects -->
 
@@ -350,7 +350,7 @@
   <project path="external/python/parse_type" name="platform/external/python/parse_type" groups="vts,pdk" remote="aosp" />
   <project path="external/python/pyasn1" name="platform/external/python/pyasn1" groups="vts,pdk" remote="aosp" />
   <project path="external/python/pyasn1-modules" name="platform/external/python/pyasn1-modules" groups="vts,pdk" remote="aosp" />
-  <project path="external/python/pybind11" name="platform/external/python/pybind11" groups="pdk" remote="aosp" />
+  <project path="external/python/pybind11" name="SailfishOS-for-the-fairphone-4/pybind11" revision="master" />
   <project path="external/python/pycparser" name="platform/external/python/pycparser" groups="pdk" remote="aosp" />
   <project path="external/python/pyopenssl" name="platform/external/python/pyopenssl" groups="pdk" remote="aosp" />
   <project path="external/python/rsa" name="platform/external/python/rsa" groups="vts,pdk" remote="aosp" />
